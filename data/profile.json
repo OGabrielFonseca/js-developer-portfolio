@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/OGabrielFonseca/js-developer-portfolio/resolucao-desafio/data/imgs/Angular.png"
+        "logo": "https://raw.githubusercontent.com/OGabrielFonseca/js-developer-portfolio/resolucao-desafio/data/imgs/angular.png"
       },
       {
         "name": "CSharp",
@@ -24,8 +24,8 @@
         "logo": "https://raw.githubusercontent.com/OGabrielFonseca/js-developer-portfolio/resolucao-desafio/data/imgs/html.png"
       },
       {
-        "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        "name": "JS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       }
     ],
     "softSkills": [
