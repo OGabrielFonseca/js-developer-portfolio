@@ -6,4 +6,5 @@ As tecnologias utlizadas são HTML, CSS e JavaScript.
 [Clique Aqui](https://ogabrielfonseca.github.io/js-developer-portfolio/) para acessar a resolução do desafio!
 
 ## Visão geral do Portifólio.
-![image](https://github.com/OGabrielFonseca/js-developer-portfolio/assets/91344667/8e3cbcc0-a59a-4b94-96f1-1657330c5146)
+![image](https://github.com/OGabrielFonseca/js-developer-portfolio/assets/91344667/14061991-b1c2-4e0c-b470-4a54711d0be5)
+
